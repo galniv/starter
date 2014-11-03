@@ -6,14 +6,22 @@
     brew_taps:
     - caskroom/fonts
     brew_packages:
-    - git
-    - zsh
-    - vim
-    - the_silver_searcher
-    - ctags
-    - reattach-to-user-namespace
-    - tmux
+    - jq
+    - nvm
     cask_packages:
-    - font-inconsolata-for-powerline
     - iterm2
-    - macvim
+    - google-chrome
+    - sublime-text
+    - slack
+    - hipchat
+    - mongodb
+    - spotify
+    - bettertouchtool
+    - boot2docker
+    - caffeine
+    - mou
+    - adobe-creative-cloud
+    - sequel-pro
+    - tower
+    - cornerstone
+    - dropbox
